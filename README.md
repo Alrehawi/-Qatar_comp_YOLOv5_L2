@@ -11,6 +11,6 @@ Sign language is a communication system that uses Gestures and visual signs, usu
 [![ARSlang ](https://github.com/Alrehawi/-Qatar_comp_YOLOv5_L/blob/main/Signs_32_New.png)
 
 # The result was:
-[![Result ](https://github.com/Alrehawi/-Qatar_comp_YOLOv5_L/blob/main/results.png)
+[![Result ](https://github.com/Alrehawi/-Qatar_comp_YOLOv5_L2/blob/main/results.png)
 
 
